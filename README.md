@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Machine Learning, UI/UX design, RAG**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lamthienphuc](https://github.com/lamthienphuc)
-
 - 💬 Ask me about **Data-Driven Visionary**
 
 - 📫 How to reach me **https://www.linkedin.com/in/phuc-thien-lam-74b6bb23b/**
