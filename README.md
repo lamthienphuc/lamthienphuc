@@ -1,7 +1,17 @@
 <div id="header" align="center">
 
 
+
+
+
+
 <img src="./assets/github.gif" width="100"/>
+
+
+
+
+
+
 
 
 
