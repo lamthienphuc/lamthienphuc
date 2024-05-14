@@ -1,15 +1,15 @@
 <div id="header" align="center">
   
-<img src="./assets/github.gif" width="100"/>
+<img src="github.gif" width="100"/>
 
 <h1 align="center">Hi 👋, I'm Lam Thien Phuc</h1>
 <h3 align="center">A Noteworthy Data Analyst from Viet Nam</h3>
 
-- 🌱 I’m currently learning **Machine Learning, UI/UX design, RAG**
+ 🌱 I’m currently learning **Machine Learning, UI/UX design, RAG**
 
-- 💬 Ask me about **Data-Driven Visionary**
+ 💬 Ask me about **Data-Driven Visionary**
 
-- 📫 How to reach me **https://www.linkedin.com/in/phuc-thien-lam-74b6bb23b/**
+ 📫 How to reach me **https://www.linkedin.com/in/phuc-thien-lam-74b6bb23b/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
