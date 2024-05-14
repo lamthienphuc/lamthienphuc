@@ -19,13 +19,14 @@
 
 <h3 align="left">Learned and experienced Tools:</h3>
 
-<p align="left"> <img height="50" width="50" src="https://cdn.simpleicons.org/mysql" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/r" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/python" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/tableau" />
+<p align="left"> <img height="50" width="50" src="https://cdn.simpleicons.org/mysql" />   
+<img height="50" width="50" src="https://www.r-project.org/logo/Rlogo.png" />
+<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+<img height="50" width="60" src="https://cdn.simpleicons.org/tableau" />
 <img height="50" width="50" src="https://cdn.simpleicons.org/powerbi" />
 <img height="50" width="50" src="https://cdn.simpleicons.org/microsoftexcel" />
 <img height="50" width="50" src="https://cdn.simpleicons.org/microsoftazure" />
+<img height="50" width="50" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
