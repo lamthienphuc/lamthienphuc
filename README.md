@@ -23,8 +23,8 @@
 <img height="50" width="50" src="https://www.r-project.org/logo/Rlogo.png" />
 <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img height="50" width="60" src="https://cdn.simpleicons.org/tableau" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/powerbi" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/microsoftexcel" />
+<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
+<img height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroU91FLk1e5CTmveZCstER9A-qLpJGNtZvA&s" />
 <img height="50" width="50" src="https://cdn.simpleicons.org/microsoftazure" />
 <img height="50" width="50" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 </p>
