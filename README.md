@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Lam Thien Phuc</h1>
 <h3 align="center">a junior student majoring in data science from Ho Chi Minh city, Viet Nam</h3>
 
- 🌱 I’m currently learning **Machine Learning, UI/UX design, RAG**
+ 🌱 I’m currently learning **Machine Learning, Deep Learning, RAG, Cloud & Containerization**
 
  💬 Ask me about **Data-Driven Visionary**
 
