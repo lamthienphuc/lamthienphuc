@@ -28,6 +28,7 @@
 <img height="60" width="60" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <img height="60" width="60" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo.png" />
 <img height="60" width="60" src="https://www.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" />
+<img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
