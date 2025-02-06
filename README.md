@@ -22,14 +22,12 @@
 <p align="left"> <img height="50" width="50" src="https://cdn.simpleicons.org/mysql" />   
 <img height="60" width="60" src="https://www.r-project.org/logo/Rlogo.png" />
 <img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
-<img height="60" width="60" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" />
 <img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
 <img height="60" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroU91FLk1e5CTmveZCstER9A-qLpJGNtZvA&s" />
 <img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" />
 <img height="60" width="60" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <img height="60" width="60" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo.png" />
 <img height="60" width="60" src="https://www.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" />
-<img height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/docker.svg" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
