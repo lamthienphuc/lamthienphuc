@@ -17,7 +17,7 @@
 <a href="https://kaggle.com/tygryskuyato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tygryskuyato" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Learned and experienced Tools:</h3>
+<h3 align="left">Learned and experienced Programing, Databases, Data platforms and Tools:</h3>
 
 <p align="left"> <img height="50" width="50" src="https://cdn.simpleicons.org/mysql" />   
 <img height="60" width="60" src="https://www.r-project.org/logo/Rlogo.png" />
