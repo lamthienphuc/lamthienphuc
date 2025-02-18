@@ -3,7 +3,7 @@
 <img src="github.gif" width="100"/>
 
 <h1 align="center">Hi 👋, I'm Lam Thien Phuc</h1>
-<h3 align="center">a junior student majoring in data science from Ho Chi Minh city, Viet Nam</h3>
+<h3 align="center">a senior student majoring in data science from Ho Chi Minh city, Viet Nam</h3>
 
  🌱 I’m currently learning **Machine Learning, Deep Learning, CAG, Cloud & Containerization**
 
