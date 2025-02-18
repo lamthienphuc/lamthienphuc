@@ -26,10 +26,9 @@
 <img height="60" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroU91FLk1e5CTmveZCstER9A-qLpJGNtZvA&s" />
 <img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" />
 <img height="60" width="60" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
-<img height="60" width="60" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo.png" />
 <img height="60" width="60" src="https://www.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" />
-<img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" />
-<img height="60" width="60" src="https://banner2.cleanpng.com/20180421/kwq/kisspng-apache-hadoop-big-data-computer-cluster-5adb7d065d2f40.1953289215243338303817.jpg" />
+<img height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" />
+<img height="60" width="80" src="https://banner2.cleanpng.com/20180421/kwq/kisspng-apache-hadoop-big-data-computer-cluster-5adb7d065d2f40.1953289215243338303817.jpg" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
