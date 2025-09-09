@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/phuc thien lam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phuc thien lam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lam-thien-phuc-74b6bb23b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phuc thien lam" height="30" width="40" /></a>
 <a href="https://kaggle.com/tygryskuyato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tygryskuyato" height="30" width="40" /></a>
 </p>
 
