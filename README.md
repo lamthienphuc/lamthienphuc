@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Lam Thien Phuc</h1>
 <h3 align="center">a senior student majoring in data science from Ho Chi Minh city, Viet Nam</h3>
 
- 🌱 I’m currently learning **Data Science, Data Engineer, Business Analyst, Machine Learning, Deep Learning, CAG, Cloud & Containerization**
+ 🌱 I’m currently learning **Data Science, Data Engineering, Business Intelligence, Machine Learning, Deep Learning, CAG, Cloud & Containerization**
 
  💬 Ask me about **Data-Driven Visionary - ETL process - Data Warehouse - Math - Biology - Physics**
 
