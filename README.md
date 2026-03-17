@@ -27,9 +27,8 @@
 <img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" />
 <img height="60" width="60" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <img height="60" width="60" src="https://www.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" />
-<img height="60" width="80" src="https://img.icons8.com/color/1200/apache-spark.jpg" />
+<img height="60" width="60" src="https://img.icons8.com/color/1200/apache-spark.jpg" />
 <img height="60" width="60" src="https://cdn.imgbin.com/14/18/14/imgbin-postgresql-logo-computer-software-database-open-source-s-L4gjg5tN6hckcXVxmFak1gFhu.jpg" />
-<img height="60" width="80" src="https://res.cloudinary.com/hevo/images/c_scale,w_448,h_299,dpr_1.25/f_webp,q_auto:best/v1686042429/hevo-learn-1/MySQL-Logo.wine_-1/MySQL-Logo.wine_-1.png?_i=AA" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
