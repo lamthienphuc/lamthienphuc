@@ -27,8 +27,9 @@
 <img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" />
 <img height="60" width="60" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <img height="60" width="60" src="https://www.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" />
-<img height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" />
-<img height="60" width="120" src="https://banner2.cleanpng.com/20180421/kwq/kisspng-apache-hadoop-big-data-computer-cluster-5adb7d065d2f40.1953289215243338303817.jpg" />
+<img height="60" width="80" src="https://img.icons8.com/color/1200/apache-spark.jpg" />
+<img height="60" width="120" src="https://cdn.imgbin.com/14/18/14/imgbin-postgresql-logo-computer-software-database-open-source-s-L4gjg5tN6hckcXVxmFak1gFhu.jpg" />
+<img height="60" width="80" src="https://res.cloudinary.com/hevo/images/c_scale,w_448,h_299,dpr_1.25/f_webp,q_auto:best/v1686042429/hevo-learn-1/MySQL-Logo.wine_-1/MySQL-Logo.wine_-1.png?_i=AA" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
