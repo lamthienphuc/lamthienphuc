@@ -7,7 +7,7 @@
 
  🌱 I’m currently learning **Data Science, Data Engineering, Business Intelligence, Machine Learning, Deep Learning, CAG, Cloud & Containerization**
 
- 💬 Ask me about **Data-Driven Visionary - ETL process - Data Warehouse - Math - Biology - Physics**
+ 💬 Ask me about **Data & Science - ETL/ELT process - Data Science - Math - Biology - Physics**
 
  📫 How to reach me **https://www.linkedin.com/in/phuc-thien-lam-74b6bb23b/**
 
